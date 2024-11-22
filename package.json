@@ -1,0 +1,13 @@
+{
+  "name": "cypress-web-project",
+  "version": "1.0.0",
+  "description": "A Cypress project to test web applications and API",
+  "main": "index.js",
+  "scripts": {
+    "open": "npx cypress open",
+    "e2e": "npx cypress run --spec 'cypress/e2e/tests_e2e/*.cy.js' --browser chrome"
+  },
+  "devDependencies": {
+    "cypress": "^13.16.0"
+  }
+}
