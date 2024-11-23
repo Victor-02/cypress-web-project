@@ -1,0 +1,867 @@
+{
+    "results": [
+        {
+            "hits": [
+                {
+                    "id_produto": 799533,
+                    "id_categoria": 5189,
+                    "familia": "cat_conjuntos_de_quarto_de_bebe",
+                    "id_nivel_1": 7,
+                    "nivel_1": "Móveis",
+                    "id_nivel_2": 40,
+                    "nivel_2": "Móveis",
+                    "id_nivel_3": 911,
+                    "nivel_3": "Móveis para Quarto de Bebê",
+                    "id_nivel_4": 1887,
+                    "nivel_4": "Quarto de Bebê Completo",
+                    "id_nivel_5": null,
+                    "nivel_5": "",
+                    "id_nivel_6": null,
+                    "nivel_6": "",
+                    "id_nivel_7": null,
+                    "nivel_7": "",
+                    "nome": "Quarto de Bebê Completo com Guarda Roupa, Cômoda e Berço 100% MDF Jolie Retrô Espresso Móveis",
+                    "descricao": "Pra quem busca qualidade e elegância o Quarto Kakau é perfeito, pois possui toques de modernidade junto do estilo retrô. O berço é certificado pelo INMETRO (000781/2018), acompanha um suporte para mosquiteiro e a base do colchão é regulável em 3 alturas, aumentando o conforto e na segurança com o crescimento do seu bebê. São móveis 100% MDF com acabamento em pintura UV atóxica. As gavetas possuem corrediças telescópicas e suportam até 4kg cada. Tudo para oferecer um quartinho aconchegante, prático e lindo para o seu bebê.\n Outras Caracteristicas:\n • Puxadores em MDF\n • Total de 6 prateleiras suportando até 5kg cada\n • Total de 3 cabideiros metálicos suportando até 3kg cada\n • Colchão Indicado: 130 x 70 (LxP - cm)\n • Grades do berço são Fixas\n • Berço com montagem flex: Vira minicama",
+                    "ean": 7909903218761,
+                    "marca": "Espresso Móveis",
+                    "preco_de": 2799.99,
+                    "preco_por": 1999.99,
+                    "largura": 0.1,
+                    "altura": 0.1,
+                    "profundidade": 0.1,
+                    "peso": 197.94,
+                    "status": 1,
+                    "imagens": [
+                        "https://product-hub-prd.madeiramadeira.com.br/799533/images/09603ef5-d068-486e-946b-084d8266b38eocarvalho1669817899200zoom.jpg",
+                        "https://product-hub-prd.madeiramadeira.com.br/799533/images/2320279d-5ce7-4f9e-9745-9f15e44cca5cocarvalho1669817898198zoom.jpg",
+                        "https://product-hub-prd.madeiramadeira.com.br/799533/images/4f966a91-9e38-47b6-8bcb-0eeae3f6424aocarvalho1669817897196zoom.jpg",
+                        "https://product-hub-prd.madeiramadeira.com.br/799533/images/7daa4c98-8d38-4129-aadd-d3ed6133b9d9ocarvalho1669817897194zoom.jpg",
+                        "https://product-hub-prd.madeiramadeira.com.br/799533/images/b0461144-1e02-4630-add0-1b34fa8c8dabocarvalho1669817896192zoom.jpg",
+                        "https://product-hub-prd.madeiramadeira.com.br/799533/images/a39245a6-5513-4e5b-a83f-27e9fc044ae9ocarvalho1669817895190zoom.jpg",
+                        "https://product-hub-prd.madeiramadeira.com.br/799533/images/795db54d-bc08-4ed2-9cfc-e923748be10focarvalho1669817894188zoom.jpg",
+                        "https://product-hub-prd.madeiramadeira.com.br/799533/images/f91d01cd-6a1e-4abd-a55d-f6b136796de1ocarvalho1669817893186zoom.jpg",
+                        "https://product-hub-prd.madeiramadeira.com.br/799533/images/6608cca1-77f4-4dd4-a98e-4f29a9218f96ocarvalho1669817893184zoom.jpg",
+                        "https://product-hub-prd.madeiramadeira.com.br/799533/images/f5301a29-8376-4ca6-ac28-f1111bb478b7ocarvalho1669817892182zoom.jpg",
+                        "https://product-hub-prd.madeiramadeira.com.br/799533/images/35f29c0c-8d22-4436-acc4-47e1db167039ocarvalho1669817891180zoom.jpg",
+                        "https://product-hub-prd.madeiramadeira.com.br/799533/images/6827b545-6d0b-488f-8f03-a9c228eef772ocarvalho1669817890178zoom.jpg",
+                        "https://product-hub-prd.madeiramadeira.com.br/799533/images/e81af4dc-273b-4dc1-802d-8306f72e0543ocarvalho1669817890176zoom.jpg",
+                        "https://product-hub-prd.madeiramadeira.com.br/799533/images/12e600e6-1cea-473c-a09a-c24a6d4a94b4ocarvalho1669817889174zoom.jpg",
+                        "https://product-hub-prd.madeiramadeira.com.br/799533/images/24a88b7d-f878-43f0-ac13-712c7340c037ocarvalho1669817888172zoom.jpg"
+                    ],
+                    "video": null,
+                    "atributos": {
+                        "Escala de Brilho": "Branco Brilhante e Carvalho Semi-brilho",
+                        "Estilo": "Retrô",
+                        "O Conjunto Contém": "Berço/Guarda-Roupa/Cômoda",
+                        "Ambiente Principal": "Quarto de Bebê",
+                        "Material Principal": "MDF",
+                        "Tipo de Guarda-roupa": "Bebê",
+                        "Cor": "Branco Brilho/Carvalho",
+                        "Cor Predominante": "Branco",
+                        "Pintura Atóxica": "Sim",
+                        "Possui Certificado": "Sim",
+                        "Cor do Produto": "Branco Brilho/Carvalho",
+                        "Itens Inclusos": "1 Guarda Roupas, 1 Cômoda, 1 Berço, Kit Ferragens e Manual de Montagem",
+                        "Linha ou Coleção": "Jolie"
+                    },
+                    "datahora_criacao": "2022-12-12 13:25:39",
+                    "id_unidade": 1,
+                    "unidade": "unidade",
+                    "unidade_fracionada": 1,
+                    "id_seller_owner": 1,
+                    "boost": null,
+                    "ind_suspenso": 0,
+                    "ind_possui_filhos": 0,
+                    "ind_possui_pais": 0,
+                    "ind_vende_separado": 0,
+                    "ind_split_pedido": 0,
+                    "imagens_thumb": [
+                        "https://product-hub-prd.madeiramadeira.com.br/799533/images/09603ef5-d068-486e-946b-084d8266b38eocarvalho1669817899200zoom.jpg",
+                        "https://product-hub-prd.madeiramadeira.com.br/799533/images/2320279d-5ce7-4f9e-9745-9f15e44cca5cocarvalho1669817898198zoom.jpg",
+                        "https://product-hub-prd.madeiramadeira.com.br/799533/images/4f966a91-9e38-47b6-8bcb-0eeae3f6424aocarvalho1669817897196zoom.jpg",
+                        "https://product-hub-prd.madeiramadeira.com.br/799533/images/7daa4c98-8d38-4129-aadd-d3ed6133b9d9ocarvalho1669817897194zoom.jpg",
+                        "https://product-hub-prd.madeiramadeira.com.br/799533/images/b0461144-1e02-4630-add0-1b34fa8c8dabocarvalho1669817896192zoom.jpg",
+                        "https://product-hub-prd.madeiramadeira.com.br/799533/images/a39245a6-5513-4e5b-a83f-27e9fc044ae9ocarvalho1669817895190zoom.jpg",
+                        "https://product-hub-prd.madeiramadeira.com.br/799533/images/795db54d-bc08-4ed2-9cfc-e923748be10focarvalho1669817894188zoom.jpg",
+                        "https://product-hub-prd.madeiramadeira.com.br/799533/images/f91d01cd-6a1e-4abd-a55d-f6b136796de1ocarvalho1669817893186zoom.jpg",
+                        "https://product-hub-prd.madeiramadeira.com.br/799533/images/6608cca1-77f4-4dd4-a98e-4f29a9218f96ocarvalho1669817893184zoom.jpg",
+                        "https://product-hub-prd.madeiramadeira.com.br/799533/images/f5301a29-8376-4ca6-ac28-f1111bb478b7ocarvalho1669817892182zoom.jpg",
+                        "https://product-hub-prd.madeiramadeira.com.br/799533/images/35f29c0c-8d22-4436-acc4-47e1db167039ocarvalho1669817891180zoom.jpg",
+                        "https://product-hub-prd.madeiramadeira.com.br/799533/images/6827b545-6d0b-488f-8f03-a9c228eef772ocarvalho1669817890178zoom.jpg",
+                        "https://product-hub-prd.madeiramadeira.com.br/799533/images/e81af4dc-273b-4dc1-802d-8306f72e0543ocarvalho1669817890176zoom.jpg",
+                        "https://product-hub-prd.madeiramadeira.com.br/799533/images/12e600e6-1cea-473c-a09a-c24a6d4a94b4ocarvalho1669817889174zoom.jpg",
+                        "https://product-hub-prd.madeiramadeira.com.br/799533/images/24a88b7d-f878-43f0-ac13-712c7340c037ocarvalho1669817888172zoom.jpg"
+                    ],
+                    "ind_respeita_proporcao": 1,
+                    "id_marca": 37992,
+                    "garantia_extendida": [],
+                    "meses_garantia_fabricante": 3,
+                    "ind_enviar_produto_loja": 1,
+                    "id_produto_unificado": 0,
+                    "ind_dispensa_comissionamento": 1,
+                    "nome_seller": "MadeiraMadeira",
+                    "url": "/quarto-de-bebe-completo-com-guarda-roupa-comoda-e-berco-100-mdf-jolie-retro-espresso-moveis-799533.html",
+                    "score": {
+                        "geral": 0
+                    },
+                    "variantes": {
+                        "Cor": {
+                            "Branco Brilho/Amêndoa": {
+                                "897355": {
+                                    "nome": "Quarto de Bebê Completo com Guarda Roupa Cômoda e Berço 100% Mdf Jolie Retrô Espresso Móveis",
+                                    "valor_atributo": "Branco Brilho/Amêndoa",
+                                    "slug_atributo": "branco-brilho-amendoa",
+                                    "id_produto": 897355,
+                                    "url": "/quarto-de-bebe-completo-com-guarda-roupa-comoda-e-berco-100-mdf-jolie-retro-espresso-moveis-897355.html",
+                                    "thumb": "https://product-hub-prd.madeiramadeira.com.br/897355/images/6c7137b1-c900-433c-89a9-6167d39ce656hoamendoa1711986556200zoom.jpg",
+                                    "zoom": "https://product-hub-prd.madeiramadeira.com.br/897355/images/6c7137b1-c900-433c-89a9-6167d39ce656hoamendoa1711986556200zoom.jpg",
+                                    "estoque": 23,
+                                    "preco_de": 2799.99,
+                                    "preco_por": 1999.99,
+                                    "ultima_parcela": {
+                                        "parcela": 1,
+                                        "valor": 1999.99,
+                                        "total": 1999.99
+                                    },
+                                    "preco_promocional": 1899.99,
+                                    "percentual_desconto_sku": 28,
+                                    "id_unidade": 1,
+                                    "unidade": "unidade",
+                                    "unidade_fracionada": 1
+                                }
+                            },
+                            "Branco Brilho/Carvalho": {
+                                "799533": {
+                                    "nome": "Quarto de Bebê Completo com Guarda Roupa, Cômoda e Berço 100% MDF Jolie Retrô Espresso Móveis",
+                                    "valor_atributo": "Branco Brilho/Carvalho",
+                                    "slug_atributo": "branco-brilho-carvalho",
+                                    "id_produto": 799533,
+                                    "url": "#",
+                                    "thumb": "https://product-hub-prd.madeiramadeira.com.br/799533/images/09603ef5-d068-486e-946b-084d8266b38eocarvalho1669817899200zoom.jpg",
+                                    "zoom": "https://product-hub-prd.madeiramadeira.com.br/799533/images/09603ef5-d068-486e-946b-084d8266b38eocarvalho1669817899200zoom.jpg",
+                                    "estoque": 40,
+                                    "preco_de": 2799.99,
+                                    "preco_por": 1999.99,
+                                    "ultima_parcela": {
+                                        "parcela": 1,
+                                        "valor": 1999.99,
+                                        "total": 1999.99
+                                    },
+                                    "preco_promocional": 1899.99,
+                                    "percentual_desconto_sku": 28,
+                                    "id_unidade": 1,
+                                    "unidade": "unidade",
+                                    "unidade_fracionada": 1
+                                }
+                            },
+                            "Branco Brilho/Cinza": {
+                                "799520": {
+                                    "nome": "Quarto de Bebê Completo com Guarda Roupa, Cômoda e Berço 100% MDF Jolie Retrô",
+                                    "valor_atributo": "Branco Brilho/Cinza",
+                                    "slug_atributo": "branco-brilho-cinza",
+                                    "id_produto": 799520,
+                                    "url": "/quarto-de-bebe-completo-com-guarda-roupa-comoda-e-berco-100-mdf-jolie-retro-799520.html",
+                                    "thumb": "https://product-hub-prd.madeiramadeira.com.br/799520/images/eed529a0-4717-4efd-8178-4be58e39d9d9ancocinza1669817835200zoom.jpg",
+                                    "zoom": "https://product-hub-prd.madeiramadeira.com.br/799520/images/eed529a0-4717-4efd-8178-4be58e39d9d9ancocinza1669817835200zoom.jpg",
+                                    "estoque": 0,
+                                    "preco_de": 2947.35,
+                                    "preco_por": 2105.25,
+                                    "ultima_parcela": {
+                                        "parcela": 1,
+                                        "valor": 2105.25,
+                                        "total": 2105.25
+                                    },
+                                    "preco_promocional": 0,
+                                    "percentual_desconto_sku": 0,
+                                    "id_unidade": 1,
+                                    "unidade": "unidade",
+                                    "unidade_fracionada": 1
+                                }
+                            },
+                            "Branco/Brilho": {
+                                "799515": {
+                                    "nome": "Quarto de Bebê Completo com Guarda Roupa, Cômoda e Berço 100% MDF Jolie Retrô Espresso Móveis",
+                                    "valor_atributo": "Branco/Brilho",
+                                    "slug_atributo": "branco-brilho",
+                                    "id_produto": 799515,
+                                    "url": "/quarto-de-bebe-completo-com-guarda-roupa-comoda-e-berco-100-mdf-jolie-retro-espresso-moveis-799515.html",
+                                    "thumb": "https://product-hub-prd.madeiramadeira.com.br/799515/images/2afcfaae-2ac4-4de4-a86d-db6273e68b8beisbranco1669817734200zoom.jpg",
+                                    "zoom": "https://product-hub-prd.madeiramadeira.com.br/799515/images/2afcfaae-2ac4-4de4-a86d-db6273e68b8beisbranco1669817734200zoom.jpg",
+                                    "estoque": 15,
+                                    "preco_de": 2799.99,
+                                    "preco_por": 1999.99,
+                                    "ultima_parcela": {
+                                        "parcela": 1,
+                                        "valor": 1999.99,
+                                        "total": 1999.99
+                                    },
+                                    "preco_promocional": 1899.99,
+                                    "percentual_desconto_sku": 28,
+                                    "id_unidade": 1,
+                                    "unidade": "unidade",
+                                    "unidade_fracionada": 1
+                                }
+                            }
+                        }
+                    },
+                    "categoria_nivel_1": 911,
+                    "slug": [
+                        {
+                            "categoria_id": 1887,
+                            "idlistagemurl": 1748,
+                            "url_listagem": "/moveis/moveis-para-quarto-de-bebe/quarto-de-bebe-completo",
+                            "fornecedor_id": 0,
+                            "departamento_id": 40,
+                            "tipo_url": "C",
+                            "nome_amigavel": "Quarto De Bebê Completo",
+                            "nome_completo_fc": "Móveis para Quarto de Bebê / Quarto de Bebê Completo",
+                            "ordem": 9999,
+                            "breadcrumb": "/moveis;Móveis|/moveis/moveis-para-quarto-de-bebe;Móveis para Quarto de Bebê|/moveis/moveis-para-quarto-de-bebe/quarto-de-bebe-completo;Quarto de Bebê Completo",
+                            "top_menu": 0,
+                            "url_listagem_tmp": "",
+                            "url_listagem2": "",
+                            "url_listagem_redirect": "",
+                            "id_depdep": 40,
+                            "departamento": "Móveis para Quarto de Bebê",
+                            "departamento_slug": "moveis-para-quarto-de-bebe",
+                            "id_depdep_pai": 7,
+                            "departamento_pai": "Móveis",
+                            "departamento_slug_pai": "moveis",
+                            "google_product_category": null,
+                            "cadeia_completa": "911, 1887",
+                            "categoria_marketing_performance_fb": "Conjuntos de Quarto",
+                            "categoria_marketing_performance": "Conjuntos de Quarto"
+                        }
+                    ],
+                    "product_hub": {
+                        "attributes": {
+                            "Estilo": [
+                                "Retrô"
+                            ],
+                            "Garantia": [
+                                "03 Meses"
+                            ],
+                            "O Conjunto Contém": [
+                                "Berço/Guarda-Roupa/Cômoda"
+                            ],
+                            "Origem do Produto": [
+                                "Nacional"
+                            ],
+                            "Ambiente Principal": [
+                                "Quarto de Bebê"
+                            ],
+                            "Material Principal": [
+                                "MDF"
+                            ],
+                            "Tipo de Guarda-roupa": [
+                                "Bebê"
+                            ],
+                            "Complexidade da Montagem": [
+                                "Alta: deve ser montado por um montador especializado"
+                            ],
+                            "Cor": [
+                                "Branco Brilho/Carvalho"
+                            ],
+                            "Cor Predominante": [
+                                "Branco"
+                            ],
+                            "SKU": [],
+                            "Enriquecido": [
+                                true
+                            ],
+                            "Capitonê": [
+                                false
+                            ],
+                            "Não Publicado": [
+                                false
+                            ],
+                            "Porta Janelada": [
+                                false
+                            ],
+                            "Pintura Atóxica": [
+                                true
+                            ],
+                            "Necessita Montagem": [
+                                true
+                            ],
+                            "Possui Certificado": [
+                                true
+                            ],
+                            "Marca": [
+                                "Espresso Móveis"
+                            ],
+                            "Cor do Produto": [
+                                "Branco Brilho/Carvalho"
+                            ],
+                            "Itens Inclusos": [
+                                "1 Guarda Roupas, 1 Cômoda, 1 Berço, Kit Ferragens e Manual de Montagem"
+                            ],
+                            "Linha ou Coleção": [
+                                "Jolie"
+                            ],
+                            "Sistema de Montagem": [
+                                "Parafusos Altoatarraxantes/Rosca Métrica, Porcas Metálicas, Buchas Plásticas, Minifix, Cavilhas de Madeira, Chapas Metálicas, Ponteiras Plásticas para Grades"
+                            ],
+                            "Certificado INMETRO (código)": [
+                                "INMETRO - 000781/2018"
+                            ],
+                            "Informações Complementares (Novo)": [
+                                "• Portas com dobradiças metálicas. • Material do fundo para Guarda Roupas e Cômoda: HDF 2,5mm. • Regulagens do estrado: 1ª altura: 25,50cm, 2ª altura: 41,50cm, 3ª altura: 57,50cm. • Altura dos pés: 17cm"
+                            ],
+                            "Medida de Cada Item (A x L x P) (novo)": [
+                                "Guarda Roupa: 209,6cm x 154,8cm x 49,8cm Berço: 92,2cm x 135,5cm x 76,3cm Cômoda: 104,8cm x 118,6cm x 50,3cm. (AxLxP)"
+                            ],
+                            "Recomendações de Uso, Manutenção e Limpeza": [
+                                "Para limpeza utilize somente pano limpo e macio, ligeiramente umedecido em água (apenas o bastante para remover a poeira), seguido de um pano seco.\n"
+                            ]
+                        },
+                        "categories": [
+                            "cat_conjuntos_de_quarto_de_bebe",
+                            "mkt_nv1_moveis_para_quarto_de_bebe",
+                            "mkt_nv2_quarto_de_bebe_completo"
+                        ],
+                        "hierarchical": {
+                            "taxonomy.lvl0": [
+                                "Móveis"
+                            ],
+                            "taxonomy.lvl1": [
+                                "Móveis > Móveis para Quarto de Bebê"
+                            ],
+                            "taxonomy.lvl2": [
+                                "Móveis > Móveis para Quarto de Bebê > Conjuntos de Quarto de Bebê"
+                            ]
+                        },
+                        "parent": "pm_man_210108_branco_brilho_carvalho",
+                        "identifier": 799533,
+                        "family": "cat_conjuntos_de_quarto_de_bebe",
+                        "groups": [
+                            "bf_listagem_teste1",
+                            "black_flags",
+                            "black_flags_2",
+                            "black_friday_11",
+                            "black_friday_19",
+                            "blackfriday14"
+                        ],
+                        "videos": [],
+                        "documents": [
+                            {
+                                "value": "https://product-hub-prd.madeiramadeira.com.br/799533/documents/088478d8-f42e-4c92-92dc-a36ab966af0a1055210ilovepdfmerged.pdf",
+                                "type": "Manual de Montagem e Instalação"
+                            }
+                        ],
+                        "variants": [
+                            332810,
+                            732254,
+                            732267,
+                            732270,
+                            732274,
+                            732275,
+                            777529,
+                            777531,
+                            777542,
+                            781829,
+                            781832,
+                            781857,
+                            781860,
+                            791033,
+                            791060,
+                            791075,
+                            791100,
+                            791197,
+                            791698,
+                            791702,
+                            791705,
+                            791708,
+                            791729,
+                            791734,
+                            791740,
+                            799515,
+                            799520,
+                            810128,
+                            819385,
+                            819387,
+                            819388,
+                            858897,
+                            858898,
+                            876990,
+                            897355,
+                            901075,
+                            901076,
+                            901084,
+                            929450
+                        ],
+                        "family_variant": {
+                            "label": "Matriz - Cor - O Conjunto Contém -  Capitonê - Porta Janelada - Conjuntos de Quarto de Bebê",
+                            "value": "matriz_cor_o_conjunto_contem_capitone_porta_janelada_conjuntos_de_quarto_de_bebe",
+                            "model_name": "Quarto de Bbê Retrô Jolie",
+                            "model_description": "",
+                            "variant_attributes": [
+                                "atr_variant_cor",
+                                "atr_o_conjunto_contem",
+                                "atr_capitone",
+                                "atr_porta_janelada"
+                            ],
+                            "aggregator": "pm_man_210108"
+                        }
+                    },
+                    "extra": {
+                        "reviews": {
+                            "rate": 4.5092,
+                            "total_opinions": 218,
+                            "total_recommends": 179,
+                            "is_top_recommended": true,
+                            "rate_rounded": 5
+                        },
+                        "merchandising": {
+                            "gmv": 0,
+                            "gmv_d30": 0,
+                            "gmv_d45": 0,
+                            "pageviews": "0",
+                            "pageviews_d30": "0",
+                            "pageviews_d45": "0",
+                            "conversao": 0.0217237305,
+                            "conversao_d30": 0.0246731881,
+                            "is_top_converting": false,
+                            "count_id_pedido": "828",
+                            "count_id_pedido_d30": "285",
+                            "quantidade_produto": 828,
+                            "rate": 4.51886797,
+                            "recommend": 0.92592591,
+                            "datefirstenabled": "2022-12-12 10:08:08",
+                            "delivery_time": 11,
+                            "is_1p": true,
+                            "is_black_friday": false,
+                            "is_fast_or_private": false,
+                            "is_fast_track": false,
+                            "is_fg_sp_app": false,
+                            "is_fg_sp": false,
+                            "is_fg_sp_capital": false,
+                            "is_free_freight_capitals_north_east_mid_west": false,
+                            "is_free_freight_south_southeast": false,
+                            "is_free_freight_south_southeast_app": false,
+                            "is_free_freight_south_sp_mg_es": false,
+                            "is_fg_br": false,
+                            "is_private_label": false,
+                            "is_reduced_freight": false,
+                            "is_saldao": false,
+                            "is_top_ofertas": true,
+                            "is_warranty_2y": false,
+                            "is_warranty_5y": false,
+                            "is_selo_100_noites": false,
+                            "new_arrival": false,
+                            "qtd_rated": "212",
+                            "quick_ship": 0,
+                            "score": 0.401823699,
+                            "score_banner": 20,
+                            "conversao_sku": 0.473821044,
+                            "ctr_sku": 4.96184254,
+                            "score_guide": 0.49351123,
+                            "score_teste_1": 7,
+                            "score_inteligente_2": 0,
+                            "score_ontem": 0.402620912,
+                            "score_teste_ontem": 7,
+                            "score_guide_ontem": 0.49867177,
+                            "score_inteligente_ontem": 0,
+                            "sla_fornecedor": 0,
+                            "stq_grather_than_5": 1,
+                            "stqfornecedor_": 40,
+                            "top_rated": true,
+                            "top_sla_fornecedor": false,
+                            "possui_buybox": false,
+                            "nr_buybox_disponivel": "0",
+                            "is_mm_recomenda": false,
+                            "is_mm_indica": false,
+                            "score_reviews": 0.442901045,
+                            "score_reviews_40": 0.610669434,
+                            "score_experimental": 0
+                        }
+                    },
+                    "new_score": {
+                        "geral": 0
+                    },
+                    "taxonomy.lvl0": "Móveis",
+                    "taxonomy.lvl1": "Móveis > Móveis para Quarto de Bebê",
+                    "taxonomy.lvl2": "Móveis > Móveis para Quarto de Bebê > Quarto de Bebê Completo",
+                    "preco_12": 1999.99,
+                    "preco_promocional": 1899.99,
+                    "percentual_desconto_sku": 28,
+                    "out_of_stock": false,
+                    "seller_slug": "madeiramadeira-wmadmin",
+                    "sellers_slug": [
+                        "madeiramadeira-wmadmin"
+                    ],
+                    "mini_buy_box": [
+                        {
+                            "seller_slug": "madeiramadeira-wmadmin",
+                            "id_seller": 1,
+                            "preco_de": 2799.99,
+                            "preco_por": 1999.99,
+                            "preco_12": 1999.99,
+                            "preco_promocional": 1899.99,
+                            "percentual_desconto_sku": 28,
+                            "percentual_avista": 5,
+                            "out_of_stock": false,
+                            "estoque": 45,
+                            "stock": {
+                                "provider": 45,
+                                "outlet": 0,
+                                "total": 45
+                            },
+                            "ultima_parcela": {
+                                "parcela": 10,
+                                "valor": 200,
+                                "total": 1999.99
+                            },
+                            "parcelamento_detalhado": {
+                                "indice_parcelamentos": [
+                                    {
+                                        "parcelamento": {
+                                            "1": {
+                                                "id": 1,
+                                                "parcela": 1,
+                                                "descontoParcela": 0.05,
+                                                "juros": 0,
+                                                "desconto": 100,
+                                                "valor": 1899.99,
+                                                "total": 1899.99,
+                                                "descontoPercentual": 5
+                                            },
+                                            "2": {
+                                                "id": 2,
+                                                "parcela": 2,
+                                                "descontoParcela": 0,
+                                                "juros": 0,
+                                                "desconto": 0,
+                                                "valor": 1000,
+                                                "total": 1999.99,
+                                                "descontoPercentual": 0
+                                            },
+                                            "3": {
+                                                "id": 3,
+                                                "parcela": 3,
+                                                "descontoParcela": 0,
+                                                "juros": 0,
+                                                "desconto": 0,
+                                                "valor": 666.66,
+                                                "total": 1999.99,
+                                                "descontoPercentual": 0
+                                            },
+                                            "4": {
+                                                "id": 4,
+                                                "parcela": 4,
+                                                "descontoParcela": 0,
+                                                "juros": 0,
+                                                "desconto": 0,
+                                                "valor": 500,
+                                                "total": 1999.99,
+                                                "descontoPercentual": 0
+                                            },
+                                            "5": {
+                                                "id": 5,
+                                                "parcela": 5,
+                                                "descontoParcela": 0,
+                                                "juros": 0,
+                                                "desconto": 0,
+                                                "valor": 400,
+                                                "total": 1999.99,
+                                                "descontoPercentual": 0
+                                            },
+                                            "6": {
+                                                "id": 6,
+                                                "parcela": 6,
+                                                "descontoParcela": 0,
+                                                "juros": 0,
+                                                "desconto": 0,
+                                                "valor": 333.33,
+                                                "total": 1999.99,
+                                                "descontoPercentual": 0
+                                            },
+                                            "7": {
+                                                "id": 7,
+                                                "parcela": 7,
+                                                "descontoParcela": 0,
+                                                "juros": 0,
+                                                "desconto": 0,
+                                                "valor": 285.71,
+                                                "total": 1999.99,
+                                                "descontoPercentual": 0
+                                            },
+                                            "8": {
+                                                "id": 8,
+                                                "parcela": 8,
+                                                "descontoParcela": 0,
+                                                "juros": 0,
+                                                "desconto": 0,
+                                                "valor": 250,
+                                                "total": 1999.99,
+                                                "descontoPercentual": 0
+                                            },
+                                            "9": {
+                                                "id": 9,
+                                                "parcela": 9,
+                                                "descontoParcela": 0,
+                                                "juros": 0,
+                                                "desconto": 0,
+                                                "valor": 222.22,
+                                                "total": 1999.99,
+                                                "descontoPercentual": 0
+                                            },
+                                            "10": {
+                                                "id": 10,
+                                                "parcela": 10,
+                                                "descontoParcela": 0,
+                                                "juros": 0,
+                                                "desconto": 0,
+                                                "valor": 200,
+                                                "total": 1999.99,
+                                                "descontoPercentual": 0
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "parcelamento": {
+                                            "1": {
+                                                "id": 1,
+                                                "parcela": 1,
+                                                "descontoParcela": 0.05,
+                                                "juros": 0,
+                                                "desconto": 100,
+                                                "valor": 1899.99,
+                                                "total": 1899.99,
+                                                "descontoPercentual": 5
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "parcelamento": {
+                                            "1": {
+                                                "id": 1,
+                                                "parcela": 1,
+                                                "descontoParcela": 0,
+                                                "juros": 0,
+                                                "desconto": 0,
+                                                "valor": 1999.99,
+                                                "total": 1999.99,
+                                                "descontoPercentual": 0
+                                            }
+                                        }
+                                    }
+                                ],
+                                "id_configuracao": 1,
+                                "ultima_parcela_semjuros": {
+                                    "metodo": "cartaodecredito",
+                                    "parcela": {
+                                        "id": 10,
+                                        "parcela": 10,
+                                        "descontoParcela": 0,
+                                        "juros": 0,
+                                        "desconto": 0,
+                                        "valor": 200,
+                                        "total": 1999.99,
+                                        "descontoPercentual": 0
+                                    }
+                                },
+                                "ultima_parcela_comjuros": null,
+                                "metodos": {
+                                    "cartaodecredito": {
+                                        "slug": "cartaodecredito",
+                                        "aceita_avista": true,
+                                        "indice": 0,
+                                        "prioridade": 2
+                                    },
+                                    "pix": {
+                                        "slug": "pix",
+                                        "aceita_avista": true,
+                                        "indice": 1,
+                                        "prioridade": 3
+                                    },
+                                    "boleto": {
+                                        "slug": "boleto",
+                                        "aceita_avista": false,
+                                        "indice": 2,
+                                        "prioridade": 4
+                                    },
+                                    "boletoparcelado": {
+                                        "slug": "boletoparcelado",
+                                        "aceita_avista": false,
+                                        "indice": 2,
+                                        "prioridade": 5
+                                    }
+                                }
+                            },
+                            "cashback_info": null,
+                            "flags": {
+                                "is_top_ofertas": true
+                            }
+                        }
+                    ],
+                    "flags": [
+                        {
+                            "blackfriday": 0,
+                            "campanha": 0,
+                            "disp_dias": 1,
+                            "entrega_imediata": 1,
+                            "entrega_rapida": 0,
+                            "esgotado": 0,
+                            "exclusivo_televendas": 0,
+                            "fora_linha": 0,
+                            "is_door": 0,
+                            "is_window": 0,
+                            "item_gratis": 0,
+                            "lancamento": 0,
+                            "landings": [
+                                {
+                                    "nome": "Flag Secundária",
+                                    "score": 0,
+                                    "tag": "f_sec",
+                                    "tag_image": "",
+                                    "url": "/f_sec"
+                                }
+                            ],
+                            "listas": "Flag Secundária;f_sec;0;/f_sec",
+                            "mais_vendido": 0,
+                            "outlet": 0,
+                            "promocao": 0,
+                            "promocao_cafeteira": 0,
+                            "sem_desconto": 0,
+                            "solicita_orcamento": 0
+                        }
+                    ],
+                    "landings": [
+                        {
+                            "url": "/moveis",
+                            "nome": "Móveis"
+                        },
+                        {
+                            "url": "/moveis/moveis-para-quarto-de-bebe",
+                            "nome": "Móveis para Quarto de Bebê"
+                        },
+                        {
+                            "url": "/moveis/moveis-para-quarto-de-bebe/quarto-de-bebe-completo",
+                            "nome": "Quarto de Bebê Completo"
+                        },
+                        {
+                            "nome": "Flag Secundária",
+                            "tag": "f_sec",
+                            "status": 0,
+                            "url": "/f_sec"
+                        }
+                    ],
+                    "sellers_flags": {
+                        "is_top_ofertas": true
+                    },
+                    "partners": {
+                        "updated_at": "2024-11-22T17:43:19.556Z",
+                        "updated_type": "partial"
+                    },
+                    "objectID": "799533",
+                    "_snippetResult": {
+                        "atributos": {
+                            "Material Principal": {
+                                "value": "MDF",
+                                "matchLevel": "none"
+                            },
+                            "Cor": {
+                                "value": "Branco Brilho/Carvalho",
+                                "matchLevel": "none"
+                            }
+                        }
+                    },
+                    "_highlightResult": {
+                        "nivel_1": {
+                            "value": "Móveis",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "nivel_2": {
+                            "value": "Móveis",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "nivel_3": {
+                            "value": "Móveis para Quarto de Bebê",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "nome": {
+                            "value": "Quarto de Bebê Completo com Guarda Roupa, Cômoda e Berço 100% MDF Jolie Retrô Espresso Móveis",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "marca": {
+                            "value": "Espresso Móveis",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                }
+            ],
+            "userData": [
+                {
+                    "facets": [
+                        {
+                            "widgetName": "Automatic",
+                            "count": 20,
+                            "priority": 1000
+                        }
+                    ]
+                }
+            ],
+            "nbHits": 35,
+            "nbSortedHits": 35,
+            "page": 0,
+            "nbPages": 1,
+            "hitsPerPage": 36,
+            "exhaustiveNbHits": true,
+            "exhaustiveTypo": true,
+            "exhaustive": {
+                "nbHits": true,
+                "typo": true
+            },
+            "query": "",
+            "params": "analyticsTags=%5B%22vr-prod-poc-madeira-listings-best-seller-desc%22%2C%22desktop%22%5D&attributesToRetrieve=%5B%22*%22%5D&clickAnalytics=true&facetingAfterDistinct=true&facets=%5B%5D&filters=objectID%3A799533%20OR%20objectID%3A586321%20OR%20objectID%3A731594%20OR%20objectID%3A487962%20OR%20objectID%3A857520383%20OR%20objectID%3A766319%20OR%20objectID%3A739488%20OR%20objectID%3A880226%20OR%20objectID%3A712694%20OR%20objectID%3A240737371%20OR%20objectID%3A839640%20OR%20objectID%3A766216%20OR%20objectID%3A850138%20OR%20objectID%3A722337%20OR%20objectID%3A865912%20OR%20objectID%3A336787811%20OR%20objectID%3A606991140%20OR%20objectID%3A872141%20OR%20objectID%3A863318%20OR%20objectID%3A698228834%20OR%20objectID%3A451325873%20OR%20objectID%3A703313%20OR%20objectID%3A461579211%20OR%20objectID%3A625458777%20OR%20objectID%3A3605037%20OR%20objectID%3A209420%20OR%20objectID%3A488562459%20OR%20objectID%3A251003778%20OR%20objectID%3A883635153%20OR%20objectID%3A1762813%20OR%20objectID%3A650576%20OR%20objectID%3A941005969%20OR%20objectID%3A357472057%20OR%20objectID%3A534526955%20OR%20objectID%3A768022635%20OR%20objectID%3A901865943&highlightPostTag=%3C%2Fais-highlight-0000000000%3E&highlightPreTag=%3Cais-highlight-0000000000%3E&hitsPerPage=36&query=&ruleContexts=%5B%22vr-prod-poc-madeira-listings-best-seller-desc%22%5D&sortFacetValuesBy=count&tagFilters=&filters=out_of_stock%3Afalse&filters=NOT+%22product_hub.attributes.Marca%22%3A%22click%22&filters=NOT+objectID%3A592308+AND+NOT+objectID%3A646245+AND+NOT+objectID%3A577467+AND+NOT+objectID%3A577464+AND+NOT+objectID%3A592307+AND+NOT+objectID%3A567622+AND+NOT+objectID%3A582966+AND+NOT+objectID%3A653737+AND+NOT+objectID%3A591331+AND+NOT+objectID%3A600393+AND+NOT+objectID%3A641720+AND+NOT+objectID%3A641718+AND+NOT+objectID%3A641722+AND+NOT+objectID%3A641723+AND+NOT+objectID%3A641725+AND+NOT+objectID%3A641728+AND+NOT+objectID%3A641730+AND+NOT+objectID%3A641731+AND+NOT+objectID%3A653210+AND+NOT+objectID%3A585101+AND+NOT+objectID%3A600861+AND+NOT+objectID%3A281356+AND+NOT+objectID%3A281971+AND+NOT+objectID%3A309558+AND+NOT+objectID%3A426416+AND+NOT+objectID%3A525858+AND+NOT+objectID%3A547640+AND+NOT+objectID%3A547641+AND+NOT+objectID%3A585155+AND+NOT+objectID%3A585179+AND+NOT+objectID%3A627167+AND+NOT+objectID%3A628509+AND+NOT+objectID%3A635656+AND+NOT+objectID%3A641726+AND+NOT+objectID%3A643020+AND+NOT+objectID%3A653222+AND+NOT+objectID%3A690050+AND+NOT+objectID%3A690097+AND+NOT+objectID%3A690192+AND+NOT+objectID%3A719806+AND+NOT+objectID%3A823300+AND+NOT+objectID%3A515277+AND+NOT+objectID%3A515295+AND+NOT+objectID%3A742629+AND+NOT+objectID%3A742783+AND+NOT+objectID%3A742815+AND+NOT+objectID%3A742849+AND+NOT+objectID%3A688885&filters=NOT+objectID%3A14593499+AND+NOT+objectID%3A14593520+AND+NOT+objectID%3A14593521+AND+NOT+objectID%3A14593524+AND+NOT+objectID%3A14593525+AND+NOT+objectID%3A14593526+AND+NOT+objectID%3A14593707+AND+NOT+objectID%3A14593733+AND+NOT+objectID%3A14593867+AND+NOT+objectID%3A473748339+AND+NOT+objectID%3A410905394+AND+NOT+objectID%3A702122729+AND+NOT+objectID%3A417170931+AND+NOT+objectID%3A237019163+AND+NOT+objectID%3A437576534+AND+NOT+objectID%3A16219914+AND+NOT+objectID%3A16219919+AND+NOT+objectID%3A16219920+AND+NOT+objectID%3A16219921+AND+NOT+objectID%3A16219922+AND+NOT+objectID%3A16219923+AND+NOT+objectID%3A16219924+AND+NOT+objectID%3A16219925+AND+NOT+objectID%3A16219926+AND+NOT+objectID%3A16219927+AND+NOT+objectID%3A16219928+AND+NOT+objectID%3A16219929+AND+NOT+objectID%3A16219930+AND+NOT+objectID%3A16219931+AND+NOT+objectID%3A16219932+AND+NOT+objectID%3A16219933+AND+NOT+objectID%3A16219934+AND+NOT+objectID%3A16219935+AND+NOT+objectID%3A16219936+AND+NOT+objectID%3A16219937+AND+NOT+objectID%3A667066+AND+NOT+objectID%3A16911253+AND+NOT+objectID%3A16911257+AND+NOT+objectID%3A16911258+AND+NOT+objectID%3A16911259+AND+NOT+objectID%3A16911263+AND+NOT+objectID%3A16911272+AND+NOT+objectID%3A16911273+AND+NOT+objectID%3A16911280+AND+NOT+objectID%3A16911282+AND+NOT+objectID%3A16911402+AND+NOT+objectID%3A16911395+AND+NOT+objectID%3A16911426+AND+NOT+objectID%3A16911427+AND+NOT+objectID%3A16911428+AND+NOT+objectID%3A16911429+AND+NOT+objectID%3A16911430+AND+NOT+objectID%3A16911433+AND+NOT+objectID%3A16911434+AND+NOT+objectID%3A16911435+AND+NOT+objectID%3A16911436+AND+NOT+objectID%3A16911437+AND+NOT+objectID%3A16911438+AND+NOT+objectID%3A16911439+AND+NOT+objectID%3A16911442+AND+NOT+objectID%3A16911444+AND+NOT+objectID%3A16911446+AND+NOT+objectID%3A16911447+AND+NOT+objectID%3A16911448+AND+NOT+objectID%3A16911449+AND+NOT+objectID%3A16911450+AND+NOT+objectID%3A16911451+AND+NOT+objectID%3A16911453+AND+NOT+objectID%3A16911454+AND+NOT+objectID%3A16911455+AND+NOT+objectID%3A16911456+AND+NOT+objectID%3A16911459+AND+NOT+objectID%3A16911461+AND+NOT+objectID%3A16911462+AND+NOT+objectID%3A384501580+AND+NOT+objectID%3A67571889+AND+NOT+objectID%3A766399942+AND+NOT+objectID%3A522489538+AND+NOT+objectID%3A423975654+AND+NOT+objectID%3A226450681+AND+NOT+objectID%3A54674729+AND+NOT+objectID%3A140184411+AND+NOT+objectID%3A517715266+AND+NOT+objectID%3A786343371+AND+NOT+objectID%3A208231280+AND+NOT+objectID%3A73023943+AND+NOT+objectID%3A930786815+AND+NOT+objectID%3A593151920+AND+NOT+objectID%3A291345134+AND+NOT+objectID%3A554286862+AND+NOT+objectID%3A971015183+AND+NOT+objectID%3A165205605+AND+NOT+objectID%3A994610790+AND+NOT+objectID%3A340701875+AND+NOT+objectID%3A730470255+AND+NOT+objectID%3A698318421+AND+NOT+objectID%3A133315469+AND+NOT+objectID%3A581733475+AND+NOT+objectID%3A592676741+AND+NOT+objectID%3A702626041+AND+NOT+objectID%3A155239793+AND+NOT+objectID%3A473748339+AND+NOT+objectID%3A410905394+AND+NOT+objectID%3A417170931+AND+NOT+objectID%3A237019163+AND+NOT+objectID%3A437576534+AND+NOT+objectID%3A931956516+AND+NOT+objectID%3A621177648+AND+NOT+objectID%3A702122729+AND+NOT+objectID%3A457564304+AND+NOT+objectID%3A318521258+AND+NOT+objectID%3A385498026+AND+NOT+objectID%3A860246348+AND+NOT+objectID%3A819395437+AND+NOT+objectID%3A148235399+AND+NOT+objectID%3A112301395+AND+NOT+objectID%3A214830525+AND+NOT+objectID%3A215236391+AND+NOT+objectID%3A103323963+AND+NOT+objectID%3A723137082+AND+NOT+objectID%3A545619002+AND+NOT+objectID%3A521980253+AND+NOT+objectID%3A389806616+AND+NOT+objectID%3A339300259+AND+NOT+objectID%3A615446992+AND+NOT+objectID%3A384501580+AND+NOT+objectID%3A599344924+AND+NOT+objectID%3A436731222+AND+NOT+objectID%3A253911932+AND+NOT+objectID%3A616598232+AND+NOT+objectID%3A943017788+AND+NOT+objectID%3A981151329+AND+NOT+objectID%3A584768144+AND+NOT+objectID%3A669672771+AND+NOT+objectID%3A253302001+AND+NOT+objectID%3A813421301+AND+NOT+objectID%3A940921429+AND+NOT+objectID%3A972728152+AND+NOT+objectID%3A637807224+AND+NOT+objectID%3A190830702+AND+NOT+objectID%3A109133345+AND+NOT+objectID%3A488419183+AND+NOT+objectID%3A154597150+AND+NOT+objectID%3A533546801+AND+NOT+objectID%3A249548826+AND+NOT+objectID%3A127354719+AND+NOT+objectID%3A447678801+AND+NOT+objectID%3A209413516+AND+NOT+objectID%3A285071259+AND+NOT+objectID%3A449595332+AND+NOT+objectID%3A525673902+AND+NOT+objectID%3A356010563+AND+NOT+objectID%3A144049887+AND+NOT+objectID%3A825194044+AND+NOT+objectID%3A229310433+AND+NOT+objectID%3A332823579+AND+NOT+objectID%3A775720733+AND+NOT+objectID%3A580892156+AND+NOT+objectID%3A788125404+AND+NOT+objectID%3A419597707+AND+NOT+objectID%3A669430344+AND+NOT+objectID%3A928623484+AND+NOT+objectID%3A221952220+AND+NOT+objectID%3A620930743+AND+NOT+objectID%3A399130934+AND+NOT+objectID%3A296910372+AND+NOT+objectID%3A952747560+AND+NOT+objectID%3A832529540+AND+NOT+objectID%3A730228990+AND+NOT+objectID%3A606960682+AND+NOT+objectID%3A834362118+AND+NOT+objectID%3A223755019&filters=NOT+objectID%3A+686230+AND+NOT+objectID%3A+686231+AND+NOT+objectID%3A+686233+AND+NOT+objectID%3A+140184411+AND+NOT+objectID%3A+423975654+AND+NOT+objectID%3A+522489538+AND+NOT+objectID%3A+766399942+AND+NOT+objectID%3A+67571889+AND+NOT+objectID%3A+226450681+AND+NOT+objectID%3A+54674729+AND+NOT+objectID%3A+971015183+AND+NOT+objectID%3A+352216504+AND+NOT+objectID%3A+782562+AND+NOT+objectID%3A+165205605+AND+NOT+objectID%3A+702626041+AND+NOT+objectID%3A+592676741+AND+NOT+objectID%3A+581733475+AND+NOT+objectID%3A+133315469+AND+NOT+objectID%3A+698318421+AND+NOT+objectID%3A+730470255+AND+NOT+objectID%3A+340701875+AND+NOT+objectID%3A+994610790+AND+NOT+objectID%3A+554286862+AND+NOT+objectID%3A+291345134+AND+NOT+objectID%3A+593151920+AND+NOT+objectID%3A+930786815+AND+NOT+objectID%3A+73023943+AND+NOT+objectID%3A+208231280+AND+NOT+objectID%3A+786343371+AND+NOT+objectID%3A+517715266+AND+NOT+objectID%3A+838173+AND+NOT+objectID%3A+686232+AND+NOT+objectID%3A+686227+AND+NOT+objectID%3A+689628+AND+NOT+objectID%3A+644457+AND+NOT+objectID%3A+689484+AND+NOT+objectID%3A+943017788+AND+NOT+objectID%3A+621177648+AND+NOT+objectID%3A+669672771+AND+NOT+objectID%3A+155239793+AND+NOT+objectID%3A+931956516+AND+NOT+objectID%3A+385498026+AND+NOT+objectID%3A+599344924+AND+NOT+objectID%3A+545619002+AND+NOT+objectID%3A+356010563+AND+NOT+objectID%3A+813421301+AND+NOT+objectID%3A+580892156+AND+NOT+objectID%3A+620930743+AND+NOT+objectID%3A+616598232+AND+NOT+objectID%3A+981151329+AND+NOT+objectID%3A+215236391+AND+NOT+objectID%3A+436731222+AND+NOT+objectID%3A+584768144+AND+NOT+objectID%3A+209413516+AND+NOT+objectID%3A+723137082+AND+NOT+objectID%3A+615446992+AND+NOT+objectID%3A+457564304+AND+NOT+objectID%3A+389806616+AND+NOT+objectID%3A+339300259+AND+NOT+objectID%3A+318521258+AND+NOT+objectID%3A+148235399+AND+NOT+objectID%3A+112301395+AND+NOT+objectID%3A+103323963+AND+NOT+objectID%3A+860246348+AND+NOT+objectID%3A+819395437+AND+NOT+objectID%3A+521980253+AND+NOT+objectID%3A+384501580+AND+NOT+objectID%3A+253911932+AND+NOT+objectID%3A+214830525+AND+NOT+objectID%3A+332823579+AND+NOT+objectID%3A+285071259+AND+NOT+objectID%3A+249548826+AND+NOT+objectID%3A+788125404+AND+NOT+objectID%3A+399130934+AND+NOT+objectID%3A+952747560+AND+NOT+objectID%3A+940921429+AND+NOT+objectID%3A+606960682+AND+NOT+objectID%3A+637807224+AND+NOT+objectID%3A+253302001+AND+NOT+objectID%3A+144049887+AND+NOT+objectID%3A+825194044+AND+NOT+objectID%3A+190830702+AND+NOT+objectID%3A+229310433+AND+NOT+objectID%3A+488419183+AND+NOT+objectID%3A+832529540+AND+NOT+objectID%3A+127354719+AND+NOT+objectID%3A+525673902+AND+NOT+objectID%3A+109133345+AND+NOT+objectID%3A+154597150+AND+NOT+objectID%3A+669430344+AND+NOT+objectID%3A+447678801+AND+NOT+objectID%3A+730228990+AND+NOT+objectID%3A+972728152+AND+NOT+objectID%3A+928623484+AND+NOT+objectID%3A+533546801+AND+NOT+objectID%3A+296910372+AND+NOT+objectID%3A+223755019+AND+NOT+objectID%3A+221952220+AND+NOT+objectID%3A+525892135+AND+NOT+objectID%3A+537088237+AND+NOT+objectID%3A+189917680+AND+NOT+objectID%3A+455360835+AND+NOT+objectID%3A+672605190+AND+NOT+objectID%3A+133337852+AND+NOT+objectID%3A+970629496+AND+NOT+objectID%3A+415660309+AND+NOT+objectID%3A+612045197+AND+NOT+objectID%3A+552852499+AND+NOT+objectID%3A+378193897+AND+NOT+objectID%3A+492804274+AND+NOT+objectID%3A+783462956+AND+NOT+objectID%3A+768917276+AND+NOT+objectID%3A+973095659+AND+NOT+objectID%3A+161503585+AND+NOT+objectID%3A+903247536+AND+NOT+objectID%3A+555191532+AND+NOT+objectID%3A+164234104+AND+NOT+objectID%3A+453582013+AND+NOT+objectID%3A+876022975+AND+NOT+objectID%3A+468949211+AND+NOT+objectID%3A+209630774",
+            "index": "vr-prod-poc-madeira-listings-best-seller-desc",
+            "queryID": "859d973a3f8b8e778928e7d5e1b582e1",
+            "appliedRelevancyStrictness": 90,
+            "renderingContent": {},
+            "extensions": {
+                "queryCategorization": {}
+            },
+            "processingTimeMS": 21,
+            "processingTimingsMS": {
+                "_request": {
+                    "roundTrip": 7
+                },
+                "afterFetch": {
+                    "format": {
+                        "total": 8
+                    },
+                    "merge": {
+                        "mergeLoop": {
+                            "total": 1
+                        },
+                        "total": 1
+                    },
+                    "total": 2
+                },
+                "extensions": 2,
+                "fetch": {
+                    "query": 1,
+                    "total": 1
+                },
+                "getIdx": {
+                    "load": {
+                        "dicts": 1,
+                        "gens": 1,
+                        "total": 4
+                    },
+                    "retry": 1,
+                    "total": 6
+                },
+                "rules": 8,
+                "total": 21
+            },
+            "serverTimeMS": 30
+        }
+    ]
+}

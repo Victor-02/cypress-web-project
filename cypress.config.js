@@ -10,8 +10,9 @@ module.exports = {
   },
   experimentalWebKitSupport: true,
   experimentalStudio: true,
+  watchForFileChanges: false,
 
   e2e: {
-    baseUrl: 'https://www.cocobambu.com/home',
+    baseUrl: 'https://www.madeiramadeira.com.br/',
   },
 };
