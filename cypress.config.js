@@ -10,7 +10,7 @@ module.exports = {
   },
   experimentalWebKitSupport: true,
   experimentalStudio: true,
-  watchForFileChanges: false,
+  watchForFileChanges: true,
 
   e2e: {
     baseUrl: 'https://www.madeiramadeira.com.br/',
